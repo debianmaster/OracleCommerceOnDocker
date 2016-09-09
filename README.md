@@ -31,6 +31,7 @@ JBoss EAP 5.1.2 is used.
 The ATG install will use the images that has JBoss installed on it.
 
 The oracle jdbc driver (ojdbc6.jar) is also installed from the tools/ folder.
+http://www.oracle.com/technetwork/apps-tech/jdbc-112010-090769.html  
 
 ## Endeca
 
@@ -47,6 +48,8 @@ I'm using an existing image of xe
 The expected file name and location for the jboss file you will need to provide
 
 * tools/jboss-eap-5.1.2.zip
+> Download link https://access.redhat.com/jbossnetwork/restricted/softwareDetail.html?softwareId=9713&product=appplatform&version=5.1.2&downloadType=distributions
+
 
 ## Oracle Commerce
 
