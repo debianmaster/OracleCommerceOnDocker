@@ -148,6 +148,9 @@ By default the build script installs the reference app
 ./apps/Discover/control/set_templates.sh
 ./apps/Discover/control/get_templates.sh
 
+
+## Discovery -- ck
+
 >  For running ATG, login to atg container and do  *sh /tmp/ATG10.1.2_200RCN.bin*   select values as below   
 
 ```sh
@@ -175,4 +178,8 @@ Disk Space Information (for Installation Target):
 ```
 >  http://stackoverflow.com/questions/17721157/atg-jboss-project-in-eclipse
 
-
+```sh
+cd /root/ATG/ATG10.1.2/home/bin
+./runAssembler /appl/jboss-eap-5.1/jboss-as/server/default/deploy/MyFirstATGApp.ear -m MyFirstATGApp 
+# where MyFirstATGApp.ear  is your ear file.
+```
