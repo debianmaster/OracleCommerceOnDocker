@@ -47,6 +47,8 @@ I'm using an existing image of xe
 The expected file name and location for the jboss file you will need to provide
 
 * tools/jboss-eap-5.1.2.zip
+> Download link https://access.redhat.com/jbossnetwork/restricted/softwareDetail.html?softwareId=9713&product=appplatform&version=5.1.2&downloadType=distributions
+
 
 ## Oracle Commerce
 
