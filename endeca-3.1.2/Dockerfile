@@ -204,5 +204,5 @@ RUN rm /setup*.sh
 
 ENV AUTHORIZED_KEYS **None**
 
-EXPOSE 22 8888 8500
+EXPOSE 22 8888 8500 8006
 CMD ["sh","/appl/endeca/bin/start.sh"]
