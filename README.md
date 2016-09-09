@@ -148,4 +148,30 @@ By default the build script installs the reference app
 ./apps/Discover/control/set_templates.sh
 ./apps/Discover/control/get_templates.sh
 
+>  For running ATG, login to atg container and do  *sh /tmp/ATG10.1.2_200RCN.bin*   select values as below   
+
+```sh
+
+PLEASE ENTER THE FULL PATH TO YOUR JBOSS HOME DIRECTORY: /appl/jboss-eap-5.1/jboss-as
+
+Product Name:
+    Oracle ATG Web Commerce 10.1.2
+
+Install Folder:
+    /root/ATG/ATG10.1.2
+
+Product Features:
+    ATG Platform (includes DAS/DAF/DPS/DSS)
+
+Application server
+    JBoss
+
+JDK path
+    /usr/java/jdk1.6.0_38/
+
+Disk Space Information (for Installation Target): 
+    Required:  558,309,553 bytes
+    Available: 26,056,605,696 bytes
+```
+
 
