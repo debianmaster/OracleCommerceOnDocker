@@ -173,5 +173,6 @@ Disk Space Information (for Installation Target):
     Required:  558,309,553 bytes
     Available: 26,056,605,696 bytes
 ```
+>  http://stackoverflow.com/questions/17721157/atg-jboss-project-in-eclipse
 
 
