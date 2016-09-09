@@ -31,6 +31,7 @@ JBoss EAP 5.1.2 is used.
 The ATG install will use the images that has JBoss installed on it.
 
 The oracle jdbc driver (ojdbc6.jar) is also installed from the tools/ folder.
+http://www.oracle.com/technetwork/apps-tech/jdbc-112010-090769.html  
 
 ## Endeca
 
